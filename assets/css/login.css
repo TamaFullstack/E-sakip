@@ -1,0 +1,81 @@
+.nav p {
+    font-size: 10px !important;
+}
+
+body {
+    font-family: 'raleway', sans-serif;
+
+}
+
+
+
+#illus-top {
+    z-index: -99;
+    position: absolute;
+}
+
+
+#main-login .card {
+
+    border-radius: 15px;
+}
+
+#main-login .card p {
+    color: #2D6A4F;
+    font-weight: 500;
+    font-size: 12px;
+    margin: 0%;
+}
+
+#main-login .card a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #2D6A4F;
+
+}
+
+#main-login .card-body {
+    padding: 0, 0, 8px, 8px;
+}
+
+#main-login .card h2 {
+    color: #2D6A4F;
+    font-weight: 700;
+
+}
+
+.btn-green {
+    background-color: #52B69A;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+
+
+}
+
+.btn-green:hover {
+    background-color: #145c3c;
+    color: white;
+
+
+}
+
+hr {
+    background-color: #52B69A;
+    height: 2px;
+}
+
+input {
+    font-size: 12px !important;
+    background-color: rgba(209, 253, 240, 0.6) !important;
+    border: none !important;
+
+
+}
+
+
+@media (min-width: 992px) {
+    .nav p {
+        font-size: 14px !important;
+    }
+}
